@@ -1,6 +1,6 @@
 # spiritual-school-8644
 
-# [Travel Tourism](https://spiritual-school-8644-travel-tour.netlify.app/)
+# [Travel Tourism](https://helpful-gumption-451f79.netlify.app/)
 
 - Clone of [Ecotourism](https://dribbble.com/shots/21258813-Ecotourism-Travel-Landing-Page-Hero)
 
