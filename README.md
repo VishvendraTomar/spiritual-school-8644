@@ -17,7 +17,7 @@ A team of four people created this project over the course of five days.
 
 
 ### Netlify Link
-(https://spiritual-school-8644-travel-tour.netlify.app/)
+(https://helpful-gumption-451f79.netlify.app/)
 
 ### JSON SERVER
 https://spiritual-school-8644-data.onrender.com
