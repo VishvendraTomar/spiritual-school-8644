@@ -3,7 +3,7 @@ console.log(localData);
 
 let backBtn = document.getElementById("back");
 backBtn.addEventListener("click",function(){
-  window.location.href="/admin.html";
+  window.location.href="/admin/admin.html";
 })
 
 let form = document.getElementById("skform");
